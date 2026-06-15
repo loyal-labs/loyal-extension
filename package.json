@@ -2,7 +2,7 @@
   "name": "@loyal-labs/extension",
   "description": "Loyal wallet browser extension",
   "private": true,
-  "version": "0.5.11",
+  "version": "0.5.12",
   "type": "module",
   "scripts": {
     "dev": "wxt",
@@ -31,7 +31,7 @@
     "react-dom": "^19.2.4",
     "text-security": "^3.2.1",
     "tweetnacl": "1.0.3",
-    "@loyal-labs/private-transactions": "^0.2.9",
+    "@loyal-labs/private-transactions": "^0.2.10",
     "@loyal-labs/shared": "^0.1.1",
     "@loyal-labs/solana-rpc": "^0.1.1",
     "@loyal-labs/solana-wallet": "^0.1.1",
