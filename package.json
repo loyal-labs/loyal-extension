@@ -15,6 +15,7 @@
     "postinstall": "wxt prepare"
   },
   "dependencies": {
+    "@loyal-labs/solana-rpc": "^0.1.1",
     "@solana/wallet-adapter-base": "^0.9.27",
     "@solana/wallet-adapter-react": "^0.15.39",
     "@solana/wallet-adapter-react-ui": "^0.9.39",
@@ -32,7 +33,6 @@
     "text-security": "^3.2.1",
     "tweetnacl": "1.0.3",
     "@loyal-labs/shared": "^0.1.1",
-    "@loyal-labs/solana-rpc": "^0.1.1",
     "@loyal-labs/solana-wallet": "^0.1.1",
     "@loyal-labs/wallet-core": "^0.1.1"
   },
